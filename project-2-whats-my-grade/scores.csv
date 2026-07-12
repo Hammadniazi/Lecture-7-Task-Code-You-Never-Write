@@ -1,0 +1,12 @@
+Category,Item,Score,MaxScore
+Quiz,Quiz 1,7,10
+Quiz,Quiz 2,9,10
+Quiz,Quiz 3,4,10
+Quiz,Quiz 4,8,10
+Quiz,Quiz 5,10,10
+Assignment,Assignment 1,88,100
+Assignment,Assignment 2,92,100
+Assignment,Assignment 3,79,100
+Assignment,Assignment 4,95,100
+Midterm,Midterm Exam,74,100
+Final,Final Exam,,100
